@@ -1,1 +1,2 @@
-feature1 연습하기
+
+feature2 연습하기
